@@ -10,6 +10,9 @@ Code is really simple.
 - If the case is closed and there is no monster : Blue light
 - If the case is closed and these is a monster : Rainbow light
 
+![Pic1](NoMonster.jpg?raw=true "NoMonster")
+![Pic2](CaseOpened.jpg?raw=true "CaseOpened")
+![Pic3](MonsterTrapped.jpg?raw=true "MonsterTrapped")
+
 To add : 
-- Photos
 - Schema
